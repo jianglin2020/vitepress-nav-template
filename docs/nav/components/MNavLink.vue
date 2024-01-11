@@ -30,7 +30,7 @@ const svg = computed(() => {
     <article class="box">
       <div class="box-header">
         <div v-if="svg" class="icon" v-html="svg"></div>
-        <div v-else-if="icon && typeof icon === 'string'" class="icon">
+        <div v-if="icon && typeof icon === 'string'" class="icon">
           <img
             :src="withBase(icon)"
             :alt="title"
