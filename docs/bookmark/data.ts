@@ -122,6 +122,11 @@ export const NAV_DATA: NavData[] = [
         link: 'https://any86.github.io/any-rule/'
       },
       {
+        title: 'm3u8DL',
+        desc: 'N_m3u8DL-CLI使用',
+        link: 'https://blog.csdn.net/q1280198423/article/details/131403959'
+      },
+      {
         icon: 'https://www.lang123.top/icon.png',
         title: '琅琅配音',
         desc: '琅琅配音',
@@ -271,6 +276,53 @@ export const NAV_DATA: NavData[] = [
         title: '电视直播源',
         desc: '电视直播源',
         link: 'https://www.ahhhhfs.com/?s=%E7%9B%B4%E6%92%AD%E6%BA%90'
+      }
+    ]
+  },
+  {
+    title: '夸克资源',
+    items: [
+      // {
+      //   icon: 'https://duopan.fun/upload/dycms/20240530-1/9b409f92d6516bcbcf35f3131cb93ac2.jpg',
+      //   title: '魔方新世界-已完结',
+      //   desc: 'https://duopan.fun/index.php/vod/detail/id/4327.html',
+      //   link: 'https://pan.quark.cn/s/7c7c0abbb59f#/list/share/3ffc5ea3e32c40e3b19ad3629f399bad-M%E9%AD%94%E6%96%B9%E6%96%B0%E4%B8%96%E7%95%8C/50d5652260f24ebf9d81b66009ebd29c-x4K'
+      // },
+      {
+        icon: 'https://duopan.fun/upload/dycms/20240530-1/9b409f92d6516bcbcf35f3131cb93ac2.jpg',
+        title: '九部的检察官',
+        desc: 'https://duopan.fun/index.php/vod/detail/id/5959.html',
+        link: 'https://pan.quark.cn/s/4a3915ce0d13#/list/share/103ac05fd7534d38807863ef352feac4-J%20%E4%B9%9D%E9%83%A8%E7%9A%84%E6%A3%80%E5%AF%9F%E5%AE%98/febf1a57d819441ba9ed71943856f3bd-%E8%B6%85%E6%B8%85'
+      },
+      // {
+      //   icon: 'https://duopan.fun/upload/dycms/20240530-1/9b409f92d6516bcbcf35f3131cb93ac2.jpg',
+      //   title: '小夫妻-已完结',
+      //   desc: 'https://duopan.fun/index.php/vod/detail/id/5724.html',
+      //   link: 'https://pan.quark.cn/s/24b40c84b2b4#/list/share/3a1ca6ac36af41bf8e8f4e4cf2dee22e-X%E5%B0%8F%E5%A4%AB%E5%A6%BB/50c0823aaf5f4c828b137474b9f99eb6-x%E5%AE%98%E6%96%B94K'
+      // },
+      {
+        icon: 'https://duopan.fun/upload/dycms/20240530-1/9b409f92d6516bcbcf35f3131cb93ac2.jpg',
+        title: '城市捉迷藏',
+        desc: 'https://duopan.fun/index.php/vod/detail/id/4902.html',
+        link: 'https://pan.quark.cn/s/81e6b5f7c033#/list/share/296848b789174be1b3bea29232f90312-C%E5%9F%8E%E5%B8%82%E6%8D%89%E8%BF%B7%E8%97%8F/f40b4b8976c045cc88ceebc83d05b801-x4K'
+      },
+      {
+        icon: 'https://img.qwps.cn/656235362?imageMogr2/thumbnail/180x180!&k=1713947005947521929',
+        title: '喜人奇妙夜',
+        desc: 'https://www.kdocs.cn/l/cpfbm3z2y81I',
+        link: 'https://pan.quark.cn/s/e1b3a61d0ac2#/list/share/7a3e09b2c2984ee7bb9b3b457e33d8c6-%E5%96%9C%EF%BD%9CR%E5%A5%87M%EF%BD%9C%E6%B6%B2'
+      },
+      {
+        icon: 'https://img.qwps.cn/656235362?imageMogr2/thumbnail/180x180!&k=1713947005947521929',
+        title: '你好星期六',
+        desc: '资享会六号分舵-爱谁谁',
+        link: 'https://pan.quark.cn/s/f5b225a3054b#/list/share/1b920220f27f4adb811418901e9c307a-2023.%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD.1*1012%E5%AD%A3'
+      },
+      {
+        icon: 'https://img.qwps.cn/656235362?imageMogr2/thumbnail/180x180!&k=1713947005947521929',
+        title: '跳进地理的旅行 第三季',
+        desc: '资享会六号分舵-爱谁谁',
+        link: 'https://pan.quark.cn/s/c7fc4a9eaa4d#/list/share/7d8700492cea43baa5fa0c07274ebf94-T%20%E8%B7%B3%E8%BF%9B%E5%9C%B0%E7%90%86%E4%B9%A6%E7%9A%84%E6%97%85%E8%A1%8C3'
       }
     ]
   }
