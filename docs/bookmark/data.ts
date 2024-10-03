@@ -156,41 +156,22 @@ export const NAV_DATA: NavData[] = [
     title: '云盘',
     items: [
       {
-        icon: '/icons/xiaozhan.ico',
-        title: '阿里小站',
-        desc: '我的小站-阿里云盘资源共享站',
-        link: 'https://myxiaozhan.net'
-      },
-      {
-        icon: 'https://img.qwps.cn/656235362?imageMogr2/thumbnail/180x180!&k=1713947005947521929',
-        title: '资享会',
-        desc: '资享会-分享文档',
-        link: 'https://www.kdocs.cn/l/cpfbm3z2y81I'
-      },
-      // {
-      //   icon: 'https://yiso.fun/static/img/logo.png',
-      //   title: '易搜',
-      //   desc: '易搜-强大的网盘搜索引擎|百度|阿里|夸克',
-      //   link: 'https://yiso.fun/'
-      //   // http://yiso.eu.org
-      // },
-      {
         icon: 'https://s1.imagehub.cc/images/2023/06/14/f6e0735907bfc4d2be567f9e06d12063.png',
         title: '玩偶',
         desc: '玩偶哥哥-阿里云盘资源分享',
         link: 'https://www.wogg.net/'
       },
       {
-        icon: 'https://duopan.fun/upload/dycms/20240530-1/9b409f92d6516bcbcf35f3131cb93ac2.jpg',
+        icon: 'http://labipan.com/upload/dycms/20240530-1/9b409f92d6516bcbcf35f3131cb93ac2.jpg',
         title: '蜡笔',
         desc: '蜡笔盘盘资源-阿里云盘,夸克云盘',
-        link: 'https://duopan.fun'
+        link: 'http://labipan.com'
       },
       {
-        icon: 'https://tudou.lvdoui.top/template/DYXS2/static/picture/logo.png',
+        icon: 'https://yunpan.yunpay.cc/template/DYXS2/static/picture/logo.png',
         title: '土豆',
         desc: '土豆阿里资源站',
-        link: 'https://tudou.lvdoui.top'
+        link: 'https://yunpan.yunpay.cc'
       }
     ]
   },
@@ -219,6 +200,17 @@ export const NAV_DATA: NavData[] = [
         title: 'suyu',
         desc: 'suyu模拟器',
         link: 'https://git.suyu.dev/suyu/suyu/releases'
+      },
+      {
+        icon: 'https://img.piclabo.xyz/2023/10/25/d67adcffb89dd.jpg',
+        title: 'switch520',
+        desc: 'switch游戏下载',
+        link: 'https://www.gamer520.com'
+      },
+      {
+        title: '冬日狂想曲',
+        desc: '冬日狂想曲',
+        link: 'https://zi0.cc'
       }
     ]
   },
@@ -282,24 +274,18 @@ export const NAV_DATA: NavData[] = [
   {
     title: '夸克资源',
     items: [
-      // {
-      //   icon: 'https://duopan.fun/upload/dycms/20240530-1/9b409f92d6516bcbcf35f3131cb93ac2.jpg',
-      //   title: '魔方新世界-已完结',
-      //   desc: 'https://duopan.fun/index.php/vod/detail/id/4327.html',
-      //   link: 'https://pan.quark.cn/s/7c7c0abbb59f#/list/share/3ffc5ea3e32c40e3b19ad3629f399bad-M%E9%AD%94%E6%96%B9%E6%96%B0%E4%B8%96%E7%95%8C/50d5652260f24ebf9d81b66009ebd29c-x4K'
-      // },
       {
         icon: 'https://duopan.fun/upload/dycms/20240530-1/9b409f92d6516bcbcf35f3131cb93ac2.jpg',
-        title: '九部的检察官',
-        desc: 'https://duopan.fun/index.php/vod/detail/id/5959.html',
-        link: 'https://pan.quark.cn/s/4a3915ce0d13#/list/share/103ac05fd7534d38807863ef352feac4-J%20%E4%B9%9D%E9%83%A8%E7%9A%84%E6%A3%80%E5%AF%9F%E5%AE%98/febf1a57d819441ba9ed71943856f3bd-%E8%B6%85%E6%B8%85'
+        title: '软件',
+        desc: '2024年09月',
+        link: 'https://pan.quark.cn/s/219c3061200a#/list/share/f5ff5f8707af4cbba991543087589cac-2024%E5%B9%B408%E6%9C%88'
       },
-      // {
-      //   icon: 'https://duopan.fun/upload/dycms/20240530-1/9b409f92d6516bcbcf35f3131cb93ac2.jpg',
-      //   title: '小夫妻-已完结',
-      //   desc: 'https://duopan.fun/index.php/vod/detail/id/5724.html',
-      //   link: 'https://pan.quark.cn/s/24b40c84b2b4#/list/share/3a1ca6ac36af41bf8e8f4e4cf2dee22e-X%E5%B0%8F%E5%A4%AB%E5%A6%BB/50c0823aaf5f4c828b137474b9f99eb6-x%E5%AE%98%E6%96%B94K'
-      // },
+      {
+        icon: 'https://duopan.fun/upload/dycms/20240530-1/9b409f92d6516bcbcf35f3131cb93ac2.jpg',
+        title: 'OK影视',
+        desc: 'OK影视',
+        link: 'https://pan.quark.cn/s/3334d8f93c64?read=1&passcode=#/list/share/da5ffe96a7bb45e9aaee577366afe357-OK%E5%88%86%E4%BA%AB'
+      },
       {
         icon: 'https://duopan.fun/upload/dycms/20240530-1/9b409f92d6516bcbcf35f3131cb93ac2.jpg',
         title: '城市捉迷藏',
@@ -307,10 +293,22 @@ export const NAV_DATA: NavData[] = [
         link: 'https://pan.quark.cn/s/81e6b5f7c033#/list/share/296848b789174be1b3bea29232f90312-C%E5%9F%8E%E5%B8%82%E6%8D%89%E8%BF%B7%E8%97%8F/f40b4b8976c045cc88ceebc83d05b801-x4K'
       },
       {
-        icon: 'https://img.qwps.cn/656235362?imageMogr2/thumbnail/180x180!&k=1713947005947521929',
+        icon: 'https://duopan.fun/upload/dycms/20240530-1/9b409f92d6516bcbcf35f3131cb93ac2.jpg',
         title: '喜人奇妙夜',
-        desc: 'https://www.kdocs.cn/l/cpfbm3z2y81I',
-        link: 'https://pan.quark.cn/s/e1b3a61d0ac2#/list/share/7a3e09b2c2984ee7bb9b3b457e33d8c6-%E5%96%9C%EF%BD%9CR%E5%A5%87M%EF%BD%9C%E6%B6%B2'
+        desc: 'https://duopan.fun/index.php/vod/detail/id/5097.html',
+        link: 'https://pan.quark.cn/s/b3619a1ec028#/list/share/8316d61fc9d243909eca4a2a08231bb4-X%E5%96%9CR%E5%A5%87%E5%A6%99%E5%A4%9Cxrqmy'
+      },
+      {
+        icon: 'https://duopan.fun/upload/dycms/20240530-1/9b409f92d6516bcbcf35f3131cb93ac2.jpg',
+        title: '花儿与少年 第六季',
+        desc: 'https://duopan.fun/index.php/vod/detail/id/6406.html',
+        link: 'https://pan.quark.cn/s/78508bc5749e#/list/share/598ed8d4d1fc4018bd98fad95b37fce1-H%E8%8A%B1%E5%84%BF%E4%B8%8E%E5%B0%91%E5%B9%B46hrysn'
+      },
+      {
+        icon: 'https://duopan.fun/upload/dycms/20240530-1/9b409f92d6516bcbcf35f3131cb93ac2.jpg',
+        title: '凡人歌',
+        desc: 'https://duopan.fun/index.php/vod/detail/id/6545.html',
+        link: 'https://pan.quark.cn/s/069d3fe10b7c#/list/share/15d1f54d969f43a18bacffa924f33693-F%E5%87%A1%E4%BA%BA%E6%AD%8Cfrg'
       },
       {
         icon: 'https://img.qwps.cn/656235362?imageMogr2/thumbnail/180x180!&k=1713947005947521929',
