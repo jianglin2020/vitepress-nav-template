@@ -166,12 +166,6 @@ export const NAV_DATA: NavData[] = [
         title: '蜡笔',
         desc: '蜡笔盘盘资源-阿里云盘,夸克云盘',
         link: 'http://labipan.com'
-      },
-      {
-        icon: 'https://yunpan.yunpay.cc/template/DYXS2/static/picture/logo.png',
-        title: '土豆',
-        desc: '土豆阿里资源站',
-        link: 'https://yunpan.yunpay.cc'
       }
     ]
   },
@@ -196,21 +190,21 @@ export const NAV_DATA: NavData[] = [
         link: 'https://github.com/triwinds/ns-emu-tools/releases'
       },
       {
-        icon: 'https://git.suyu.dev/assets/img/logo.png',
-        title: 'suyu',
-        desc: 'suyu模拟器',
-        link: 'https://git.suyu.dev/suyu/suyu/releases'
-      },
-      {
         icon: 'https://img.piclabo.xyz/2023/10/25/d67adcffb89dd.jpg',
         title: 'switch520',
-        desc: 'switch游戏下载',
+        desc: 'switch游戏下载-百度网盘',
         link: 'https://www.gamer520.com'
       },
       {
         title: '冬日狂想曲',
-        desc: '冬日狂想曲',
+        desc: '冬日狂想曲-alist',
         link: 'https://zi0.cc'
+      },
+      {
+        icon: 'https://cdn2.mikuclub.fun/favicon.png',
+        title: '初音社',
+        desc: '游戏、壁纸下载-夸克',
+        link: 'https://www.mikuclub.win'
       }
     ]
   },
@@ -250,7 +244,7 @@ export const NAV_DATA: NavData[] = [
         icon: 'https://xn--sss604efuw.com/z/favicon.ico',
         title: '饭太硬',
         desc: '饭太硬',
-        link: 'https://饭太硬.com'
+        link: 'https://www.饭太硬.com'
       },
       {
         icon: '/icons/github.svg',
@@ -259,15 +253,14 @@ export const NAV_DATA: NavData[] = [
         link: 'https://github.com/lizongying/my-tv/releases/'
       },
       {
-        icon: 'http://tonkiang.us/favicon.ico',
-        title: '直播源搜索',
-        desc: '电视直播源搜索',
-        link: 'http://tonkiang.us/'
+        title: '肥羊allinone',
+        desc: '肥羊allinone',
+        link: 'https://imgtool.v1.mk/allinone.html'
       },
       {
-        title: '电视直播源',
+        title: 'doube-itv',
         desc: '电视直播源',
-        link: 'https://www.ahhhhfs.com/?s=%E7%9B%B4%E6%92%AD%E6%BA%90'
+        link: 'https://laosu.tech/2025/01/02/%E5%B0%8F%E7%99%BD%E5%92%8C%E6%87%92%E4%BA%BA%E4%B8%93%E5%B1%9E%E7%9A%84IPTV%E7%9B%B4%E6%92%AD%E6%BA%90/'
       }
     ]
   },
@@ -277,50 +270,14 @@ export const NAV_DATA: NavData[] = [
       {
         icon: 'https://duopan.fun/upload/dycms/20240530-1/9b409f92d6516bcbcf35f3131cb93ac2.jpg',
         title: '软件',
-        desc: '2024年09月',
-        link: 'https://pan.quark.cn/s/219c3061200a#/list/share/f5ff5f8707af4cbba991543087589cac-2024%E5%B9%B408%E6%9C%88'
+        desc: '202年01月',
+        link: 'https://pan.quark.cn/s/ac2219570b40#/list/share/37fbe556198145c8b7eba7d05ce733da-2025%E5%B9%B401%E6%9C%88'
       },
       {
         icon: 'https://duopan.fun/upload/dycms/20240530-1/9b409f92d6516bcbcf35f3131cb93ac2.jpg',
         title: 'OK影视',
         desc: 'OK影视',
         link: 'https://pan.quark.cn/s/3334d8f93c64?read=1&passcode=#/list/share/da5ffe96a7bb45e9aaee577366afe357-OK%E5%88%86%E4%BA%AB'
-      },
-      {
-        icon: 'https://duopan.fun/upload/dycms/20240530-1/9b409f92d6516bcbcf35f3131cb93ac2.jpg',
-        title: '城市捉迷藏',
-        desc: 'https://duopan.fun/index.php/vod/detail/id/4902.html',
-        link: 'https://pan.quark.cn/s/81e6b5f7c033#/list/share/296848b789174be1b3bea29232f90312-C%E5%9F%8E%E5%B8%82%E6%8D%89%E8%BF%B7%E8%97%8F/f40b4b8976c045cc88ceebc83d05b801-x4K'
-      },
-      {
-        icon: 'https://duopan.fun/upload/dycms/20240530-1/9b409f92d6516bcbcf35f3131cb93ac2.jpg',
-        title: '喜人奇妙夜',
-        desc: 'https://duopan.fun/index.php/vod/detail/id/5097.html',
-        link: 'https://pan.quark.cn/s/b3619a1ec028#/list/share/8316d61fc9d243909eca4a2a08231bb4-X%E5%96%9CR%E5%A5%87%E5%A6%99%E5%A4%9Cxrqmy'
-      },
-      {
-        icon: 'https://duopan.fun/upload/dycms/20240530-1/9b409f92d6516bcbcf35f3131cb93ac2.jpg',
-        title: '花儿与少年 第六季',
-        desc: 'https://duopan.fun/index.php/vod/detail/id/6406.html',
-        link: 'https://pan.quark.cn/s/78508bc5749e#/list/share/598ed8d4d1fc4018bd98fad95b37fce1-H%E8%8A%B1%E5%84%BF%E4%B8%8E%E5%B0%91%E5%B9%B46hrysn'
-      },
-      {
-        icon: 'https://duopan.fun/upload/dycms/20240530-1/9b409f92d6516bcbcf35f3131cb93ac2.jpg',
-        title: '凡人歌',
-        desc: 'https://duopan.fun/index.php/vod/detail/id/6545.html',
-        link: 'https://pan.quark.cn/s/069d3fe10b7c#/list/share/15d1f54d969f43a18bacffa924f33693-F%E5%87%A1%E4%BA%BA%E6%AD%8Cfrg'
-      },
-      {
-        icon: 'https://img.qwps.cn/656235362?imageMogr2/thumbnail/180x180!&k=1713947005947521929',
-        title: '你好星期六',
-        desc: '资享会六号分舵-爱谁谁',
-        link: 'https://pan.quark.cn/s/f5b225a3054b#/list/share/1b920220f27f4adb811418901e9c307a-2023.%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD.1*1012%E5%AD%A3'
-      },
-      {
-        icon: 'https://img.qwps.cn/656235362?imageMogr2/thumbnail/180x180!&k=1713947005947521929',
-        title: '跳进地理的旅行 第三季',
-        desc: '资享会六号分舵-爱谁谁',
-        link: 'https://pan.quark.cn/s/c7fc4a9eaa4d#/list/share/7d8700492cea43baa5fa0c07274ebf94-T%20%E8%B7%B3%E8%BF%9B%E5%9C%B0%E7%90%86%E4%B9%A6%E7%9A%84%E6%97%85%E8%A1%8C3'
       }
     ]
   }
