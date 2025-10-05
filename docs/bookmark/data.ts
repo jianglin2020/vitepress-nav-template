@@ -58,6 +58,12 @@ export const NAV_DATA: NavData[] = [
         title: '琅琅配音',
         desc: '琅琅配音',
         link: 'https://www.lang123.top/task'
+      },
+      {
+        icon: '/icons/github.svg',
+        title: 'Clash Meta',
+        desc: 'Clash Meta For Android',
+        link: 'https://github.com/MetaCubeX/ClashMetaForAndroid'
       }
     ]
   },
@@ -118,7 +124,30 @@ export const NAV_DATA: NavData[] = [
         link: 'https://github.com/triwinds/ns-emu-tools/releases'
       },
       {
-        icon: 'https://ig.freer520.blog/2023/10/25/d67adcffb89dd.jpg',
+        icon: 'https://git.eden-emu.dev/assets/img/logo.svg',
+        title: 'eden模拟器',
+        desc: 'eden模拟器',
+        link: 'https://git.eden-emu.dev/eden-emu/eden/tags'
+      },
+      {
+        icon: 'https://git.citron-emu.org/uploads/-/system/project/avatar/1/logomark_discord.png',
+        title: 'citron模拟器',
+        desc: 'citron模拟器',
+        link: 'https://git.citron-emu.org/citron/emulator/-/tags'
+      },
+      {
+        icon: 'https://git.ryujinx.app/uploads/-/system/appearance/header_logo/1/icon-nopad-t2-192.png',
+        title: 'ryubing模拟器',
+        desc: 'ryubing模拟器',
+        link: 'https://git.ryujinx.app/ryubing/ryujinx/-/releases'
+      },
+      {
+        icon: 'https://prodkeys.net/wp-content/uploads/2022/11/cropped-Faviconn-1-32x32.png',
+        title: 'keys秘钥',
+        desc: 'keys秘钥',
+        link: 'https://prodkeys.net/yuzu-prod-keys-n19/'
+      },
+      {
         title: 'switch520',
         desc: 'switch游戏下载-百度网盘',
         link: 'https://www.gamer520.com'
@@ -169,7 +198,6 @@ export const NAV_DATA: NavData[] = [
     title: 'tvbox',
     items: [
       {
-        icon: 'https://img.nxtf.net/images/2025/02/04/2e03c532553bd9afdb9e664e83dfa32b.jpg',
         title: '饭太硬',
         desc: '饭太硬',
         link: 'https://www.饭太硬.com'
@@ -181,7 +209,6 @@ export const NAV_DATA: NavData[] = [
         link: 'https://github.com/fanmingming/live'
       },
       {
-        icon: 'https://cn-assets.gitee.com/assets/favicon-9007bd527d8a7851c8330e783151df58.ico',
         title: '潇洒',
         desc: '潇洒接口',
         link: 'https://gitee.com/PizazzXS/another-d'
@@ -200,29 +227,33 @@ export const NAV_DATA: NavData[] = [
       },
       {
         icon: '/icons/github.svg',
-        title: 'quark-auto-save',
-        desc: '夸克自动转存',
-        link: 'https://github.com/Cp0204/quark-auto-save'
+        title: 'Mursor',
+        desc: 'Mursor直播源',
+        link: 'https://github.com/Mursor1985/LIVE'
       },
       {
         icon: '/icons/github.svg',
-        title: 'cloud189-auto-save',
-        desc: '天翼自动转存',
-        link: 'https://github.com/1307super/cloud189-auto-save'
+        title: 'quark-auto-save',
+        desc: '夸克自动转存',
+        link: 'https://github.com/Cp0204/quark-auto-save'
       }
+      // {
+      //   icon: '/icons/github.svg',
+      //   title: 'cloud189-auto-save',
+      //   desc: '天翼自动转存',
+      //   link: 'https://github.com/1307super/cloud189-auto-save'
+      // }
     ]
   },
   {
     title: '网盘资源',
     items: [
       {
-        icon: 'https://duopan.fun/upload/dycms/20240530-1/9b409f92d6516bcbcf35f3131cb93ac2.jpg',
         title: '软件',
         desc: '202年01月',
         link: 'https://pan.quark.cn/s/ac2219570b40#/list/share/37fbe556198145c8b7eba7d05ce733da-2025%E5%B9%B401%E6%9C%88'
       },
       {
-        icon: 'https://duopan.fun/upload/dycms/20240530-1/9b409f92d6516bcbcf35f3131cb93ac2.jpg',
         title: 'OK影视',
         desc: 'OK影视',
         link: 'https://pan.quark.cn/s/3334d8f93c64?read=1&passcode=#/list/share/da5ffe96a7bb45e9aaee577366afe357-OK%E5%88%86%E4%BA%AB'
