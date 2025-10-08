@@ -80,7 +80,14 @@ export const NAV_DATA: NavData[] = [
         icon: 'https://xiaomiai.site/upload/dycms/20240708-1/9150a85ec594c1e7b14619e6570d7ee4.png',
         title: '至臻',
         desc: '至臻-阿里云盘,夸克云盘',
-        link: 'http://xiaomi666.fun'
+        link: 'https://mihdr.top/'
+        // link: 'http://xiaomi666.fun'
+      },
+      {
+        icon: 'https://feimao666.fun/upload/dycms/20240530-1/9b409f92d6516bcbcf35f3131cb93ac2.jpg',
+        title: '蜡笔',
+        desc: '蜡笔盘盘资源-阿里云盘,夸克云盘',
+        link: 'https://feimao666.fun/'
       },
       {
         icon: 'https://erxiaofn.click/template/DYXS2/static/picture/logo.png',
@@ -88,30 +95,18 @@ export const NAV_DATA: NavData[] = [
         desc: '小二网盘库-阿里云盘,夸克云盘',
         link: 'https://erxiaofn.click'
       },
-      // {
-      //   icon: 'http://labipan.com/upload/dycms/20240530-1/9b409f92d6516bcbcf35f3131cb93ac2.jpg',
-      //   title: '蜡笔',
-      //   desc: '蜡笔盘盘资源-阿里云盘,夸克云盘',
-      //   link: 'http://labipan.com'
-      // },
-      // {
-      //   icon: 'http://1.95.79.193/upload/dycms/20241205-1/4e82f163deedcf520964088de25001af.png',
-      //   title: '闪电',
-      //   desc: 'UC云盘,阿里云盘,夸克云盘',
-      //   link: 'http://1.95.79.193/'
-      // },
       {
         icon: 'https://leijing1.com/favicon.ico',
         title: '雷鲸小站',
         desc: '雷鲸小站-天翼云盘交流站',
         link: 'https://leijing1.com/'
+      },
+      {
+        icon: '/icons/github.svg',
+        title: 'pansou',
+        desc: '网盘资源搜索',
+        link: 'https://github.com/fish2018/pansou'
       }
-      // {
-      //   icon: 'https://www.tianyiso.com/favicon.ico',
-      //   title: '天逸搜',
-      //   desc: '天逸云资源搜索"',
-      //   link: 'https://www.tianyiso.com/'
-      // }
     ]
   },
   {
@@ -236,13 +231,19 @@ export const NAV_DATA: NavData[] = [
         title: 'quark-auto-save',
         desc: '夸克自动转存',
         link: 'https://github.com/Cp0204/quark-auto-save'
+      },
+      {
+        icon: '/icons/github.svg',
+        title: 'cloud189-auto-save',
+        desc: '天翼自动转存',
+        link: 'https://github.com/1307super/cloud189-auto-save'
+      },
+      {
+        icon: '/icons/github.svg',
+        title: 'cloudpan189-share',
+        desc: '天翼云盘分享订阅',
+        link: 'https://github.com/xxcheng123/cloudpan189-share'
       }
-      // {
-      //   icon: '/icons/github.svg',
-      //   title: 'cloud189-auto-save',
-      //   desc: '天翼自动转存',
-      //   link: 'https://github.com/1307super/cloud189-auto-save'
-      // }
     ]
   },
   {
