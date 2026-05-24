@@ -43,6 +43,18 @@ export const NAV_DATA: NavData[] = [
         link: 'https://hellogithub.com/repository/93df3704446343068e67fc174a34be47'
       },
       {
+        icon: '/icons/github.svg',
+        title: '微信3.x历史版本',
+        desc: 'Windows微信3.x历史版本',
+        link: 'https://github.com/tom-snow/wechat-windows-versions/tags'
+      },
+      {
+        icon: '/icons/github.svg',
+        title: '微信4.X历史版本',
+        desc: 'Windows微信4.X历史版本',
+        link: 'https://github.com/cscnk52/wechat-windows-versions/tags'
+      },
+      {
         icon: 'https://any86.github.io/any-rule/favicon.ico',
         title: '正则大全',
         desc: '正则大全',
@@ -64,6 +76,12 @@ export const NAV_DATA: NavData[] = [
         title: 'Clash Meta',
         desc: 'Clash Meta For Android',
         link: 'https://github.com/MetaCubeX/ClashMetaForAndroid'
+      },
+      {
+        icon: 'https://www.themoviedb.org/assets/2/favicon-32x32-543a21832c8931d3494a68881f6afcafc58e96c5d324345377f3197a37b367b5.png',
+        title: 'TMDB',
+        desc: 'TMDB官网',
+        link: 'https://www.themoviedb.org/?language=zh-CN'
       }
     ]
   },
@@ -106,6 +124,12 @@ export const NAV_DATA: NavData[] = [
         title: 'pansou',
         desc: '网盘资源搜索',
         link: 'https://github.com/fish2018/pansou'
+      },
+      {
+        icon: '/icons/github.svg',
+        title: 'openlist-cas',
+        desc: '魔改openlist',
+        link: 'https://github.com/GitYuA/OpenList-CAS/releases'
       }
     ]
   },
@@ -125,10 +149,10 @@ export const NAV_DATA: NavData[] = [
         link: 'https://git.eden-emu.dev/eden-emu/eden/tags'
       },
       {
-        icon: 'https://git.citron-emu.org/uploads/-/system/project/avatar/1/logomark_discord.png',
+        icon: 'https://git.citron-emu.org/avatars/d32a24363dd037ea282b9b66b6e863d293407d82a29d0d658075e75b311feb1f?size=200',
         title: 'citron模拟器',
         desc: 'citron模拟器',
-        link: 'https://git.citron-emu.org/citron/emulator/-/tags'
+        link: 'https://git.citron-emu.org/Citron/Emulator/tags'
       },
       {
         icon: 'https://git.ryujinx.app/uploads/-/system/appearance/header_logo/1/icon-nopad-t2-192.png',
@@ -150,13 +174,19 @@ export const NAV_DATA: NavData[] = [
       {
         title: '冬日狂想曲',
         desc: '冬日狂想曲-alist',
-        link: 'https://zi0.cc'
+        link: 'https://zi4.cc/'
       },
       {
         icon: 'https://cdn2.mikuclub.fun/favicon.png',
         title: '初音社',
         desc: '游戏、壁纸下载-夸克',
         link: 'https://www.mikuclub.win'
+      },
+      {
+        icon: '/icons/github.svg',
+        title: '文明6mod',
+        desc: '文明6mod三方下载',
+        link: 'http://steamworkshop.download/download/view/2672533453'
       }
     ]
   },
@@ -203,11 +233,11 @@ export const NAV_DATA: NavData[] = [
         desc: '范明明',
         link: 'https://github.com/fanmingming/live'
       },
-      {
-        title: '潇洒',
-        desc: '潇洒接口',
-        link: 'https://gitee.com/PizazzXS/another-d'
-      },
+      // {
+      //   title: '潇洒',
+      //   desc: '潇洒接口',
+      //   link: 'https://gitee.com/PizazzXS/another-d'
+      // },
       {
         icon: 'https://suburl.v1.mk/favicon.ico',
         title: '直播源转换',
@@ -225,6 +255,12 @@ export const NAV_DATA: NavData[] = [
         title: 'Mursor',
         desc: 'Mursor直播源',
         link: 'https://github.com/Mursor1985/LIVE'
+      },
+      {
+        icon: '/icons/github.svg',
+        title: 't3环境搭建',
+        desc: 'tvbox_t3环境搭建',
+        link: 'https://github.com/cluntop/tvbox'
       },
       {
         icon: '/icons/github.svg',
@@ -251,13 +287,13 @@ export const NAV_DATA: NavData[] = [
     items: [
       {
         title: '软件',
-        desc: '202年01月',
-        link: 'https://pan.quark.cn/s/ac2219570b40#/list/share/37fbe556198145c8b7eba7d05ce733da-2025%E5%B9%B401%E6%9C%88'
+        desc: '2025年010月',
+        link: 'https://pan.quark.cn/s/f367f0d372cb#/list/share/a4052dded97442b6a9288b253fa9e85b'
       },
       {
         title: 'OK影视',
         desc: 'OK影视',
-        link: 'https://pan.quark.cn/s/3334d8f93c64?read=1&passcode=#/list/share/da5ffe96a7bb45e9aaee577366afe357-OK%E5%88%86%E4%BA%AB'
+        link: 'https://pan.quark.cn/s/d2d555b3b54a#/list/share/5250c283f56647998b5af9c9987e97b0'
       }
     ]
   }
