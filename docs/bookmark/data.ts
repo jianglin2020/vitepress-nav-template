@@ -95,41 +95,52 @@ export const NAV_DATA: NavData[] = [
         link: 'https://wogg.xxooo.cf'
       },
       {
-        icon: 'https://xiaomiai.site/upload/dycms/20240708-1/9150a85ec594c1e7b14619e6570d7ee4.png',
+        icon: 'https://tncache1-f1.v3mh.com/image/2025/07/01/cd6279aaafd7091672bbdc432ea9e65a.png',
+        title: '木偶',
+        desc: '木偶-阿里云盘,夸克云盘',
+        link: 'https://www.muou.asia'
+      },
+      {
+        icon: 'https://img.cdn1.vip/i/6a1683026bb43_1779860226.png',
         title: '至臻',
         desc: '至臻-阿里云盘,夸克云盘',
         link: 'https://mihdr.top/'
-        // link: 'http://xiaomi666.fun'
       },
       {
-        icon: 'https://feimao666.fun/upload/dycms/20240530-1/9b409f92d6516bcbcf35f3131cb93ac2.jpg',
+        icon: 'http://xiaocgege.shop/upload/dycms/20250714-1/638c26fceb82d0e8e774e91f5135d6a4.png',
         title: '蜡笔',
         desc: '蜡笔盘盘资源-阿里云盘,夸克云盘',
-        link: 'https://feimao666.fun/'
+        link: 'http://xiaocgege.shop'
       },
       {
-        icon: 'https://erxiaofn.click/template/DYXS2/static/picture/logo.png',
+        icon: 'https://m.360buyimg.com/i/jfs/t1/320261/9/18026/3732/687e6d46Fb105619e/a805111e2e8a2222.png',
         title: '二小',
         desc: '小二网盘库-阿里云盘,夸克云盘',
-        link: 'https://erxiaofn.click'
+        link: 'https://www.2xiaozhan.top'
       },
       {
-        icon: 'https://leijing1.com/favicon.ico',
+        // icon: 'https://leijing1.com/favicon.ico',
         title: '雷鲸小站',
         desc: '雷鲸小站-天翼云盘交流站',
         link: 'https://leijing1.com/'
       },
       {
-        icon: '/icons/github.svg',
+        icon: 'https://so.252035.xyz/favicon.ico',
         title: 'pansou',
         desc: '网盘资源搜索',
-        link: 'https://github.com/fish2018/pansou'
+        link: 'https://so.252035.xyz/'
       },
+      // {
+      //   icon: '/icons/github.svg',
+      //   title: 'openlist-cas',
+      //   desc: '魔改openlist',
+      //   link: 'https://github.com/GitYuA/OpenList-CAS/releases'
+      // },
       {
-        icon: '/icons/github.svg',
-        title: 'openlist-cas',
-        desc: '魔改openlist',
-        link: 'https://github.com/GitYuA/OpenList-CAS/releases'
+        icon: 'https://guangya.qsxy.top/wp-content/themes/zibll/img/favicon.png',
+        title: '臻影社',
+        desc: '光鸭·臻影社',
+        link: 'https://guangya.qsxy.top'
       }
     ]
   },
@@ -148,12 +159,12 @@ export const NAV_DATA: NavData[] = [
         desc: 'eden模拟器',
         link: 'https://git.eden-emu.dev/eden-emu/eden/tags'
       },
-      {
-        icon: 'https://git.citron-emu.org/avatars/d32a24363dd037ea282b9b66b6e863d293407d82a29d0d658075e75b311feb1f?size=200',
-        title: 'citron模拟器',
-        desc: 'citron模拟器',
-        link: 'https://git.citron-emu.org/Citron/Emulator/tags'
-      },
+      // {
+      //   icon: 'https://git.citron-emu.org/avatars/d32a24363dd037ea282b9b66b6e863d293407d82a29d0d658075e75b311feb1f?size=200',
+      //   title: 'citron模拟器',
+      //   desc: 'citron模拟器',
+      //   link: 'https://git.citron-emu.org/Citron/Emulator/tags'
+      // },
       {
         icon: 'https://git.ryujinx.app/uploads/-/system/appearance/header_logo/1/icon-nopad-t2-192.png',
         title: 'ryubing模拟器',
@@ -182,12 +193,12 @@ export const NAV_DATA: NavData[] = [
         desc: '游戏、壁纸下载-夸克',
         link: 'https://www.mikuclub.win'
       },
-      {
-        icon: '/icons/github.svg',
-        title: '文明6mod',
-        desc: '文明6mod三方下载',
-        link: 'http://steamworkshop.download/download/view/2672533453'
-      }
+      // {
+      //   icon: '/icons/github.svg',
+      //   title: '文明6mod',
+      //   desc: '文明6mod三方下载',
+      //   link: 'http://steamworkshop.download/download/view/2672533453'
+      // }
     ]
   },
   {
@@ -274,27 +285,27 @@ export const NAV_DATA: NavData[] = [
         desc: '天翼自动转存',
         link: 'https://github.com/1307super/cloud189-auto-save'
       },
-      {
-        icon: '/icons/github.svg',
-        title: 'cloudpan189-share',
-        desc: '天翼云盘分享订阅',
-        link: 'https://github.com/xxcheng123/cloudpan189-share'
-      }
+      // {
+      //   icon: '/icons/github.svg',
+      //   title: 'cloudpan189-share',
+      //   desc: '天翼云盘分享订阅',
+      //   link: 'https://github.com/xxcheng123/cloudpan189-share'
+      // }
     ]
   },
-  {
-    title: '网盘资源',
-    items: [
-      {
-        title: '软件',
-        desc: '2025年010月',
-        link: 'https://pan.quark.cn/s/f367f0d372cb#/list/share/a4052dded97442b6a9288b253fa9e85b'
-      },
-      {
-        title: 'OK影视',
-        desc: 'OK影视',
-        link: 'https://pan.quark.cn/s/d2d555b3b54a#/list/share/5250c283f56647998b5af9c9987e97b0'
-      }
-    ]
-  }
+  // {
+  //   title: '网盘资源',
+  //   items: [
+  //     {
+  //       title: '软件',
+  //       desc: '2025年010月',
+  //       link: 'https://pan.quark.cn/s/f367f0d372cb#/list/share/a4052dded97442b6a9288b253fa9e85b'
+  //     },
+  //     {
+  //       title: 'OK影视',
+  //       desc: 'OK影视',
+  //       link: 'https://pan.quark.cn/s/d2d555b3b54a#/list/share/5250c283f56647998b5af9c9987e97b0'
+  //     }
+  //   ]
+  // }
 ]
