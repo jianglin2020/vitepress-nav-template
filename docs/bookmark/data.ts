@@ -78,6 +78,18 @@ export const NAV_DATA: NavData[] = [
         link: 'https://github.com/MetaCubeX/ClashMetaForAndroid'
       },
       {
+        icon: 'https://sapi.yangshipin.cn/assets/2022/pcicon/favicon.ico',
+        title: '央视频',
+        desc: '央视频-有品质的视频社交媒体',
+        link: 'https://yangshipin.cn/tv/home?pid=600001818'
+      },
+      {
+        icon: 'https://fe-video-qc.xhscdn.com/fe-platform/ed8fe781ce9e16c1bfac2cd962f0721edabe2e49.ico',
+        title: '小红书',
+        desc: '小红书-2026世界杯赛程',
+        link: 'https://www.xiaohongshu.com/worldcup26/fixtures?wcup_source=web_main_venue_page&wcup_tab=calendar&wcup_redirect=home'
+      },
+      {
         icon: 'https://www.themoviedb.org/assets/2/favicon-32x32-543a21832c8931d3494a68881f6afcafc58e96c5d324345377f3197a37b367b5.png',
         title: 'TMDB',
         desc: 'TMDB官网',
